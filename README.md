@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shiwansh Das</h1>
 
-<!--
-**ansh-i7/ansh-i7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Aspiring Software Developer | Open Source Contributor
+</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ansh-i7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-i7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-i7&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
