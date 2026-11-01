@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiwansh Das</h1>
+<h1 align="center">Hey there👋, I'm Shiwansh!</h1>
 
 <h3 align="center">
   Aspiring Software Developer | Open Source Contributor
